@@ -1,0 +1,8 @@
+C:\Users\profr\dev\testesunitarios\calculos\bin\Debug\netstandard2.0\calculos.deps.json
+C:\Users\profr\dev\testesunitarios\calculos\bin\Debug\netstandard2.0\calculos.dll
+C:\Users\profr\dev\testesunitarios\calculos\bin\Debug\netstandard2.0\calculos.pdb
+C:\Users\profr\dev\testesunitarios\calculos\obj\Debug\netstandard2.0\calculos.csprojAssemblyReference.cache
+C:\Users\profr\dev\testesunitarios\calculos\obj\Debug\netstandard2.0\calculos.AssemblyInfoInputs.cache
+C:\Users\profr\dev\testesunitarios\calculos\obj\Debug\netstandard2.0\calculos.AssemblyInfo.cs
+C:\Users\profr\dev\testesunitarios\calculos\obj\Debug\netstandard2.0\calculos.dll
+C:\Users\profr\dev\testesunitarios\calculos\obj\Debug\netstandard2.0\calculos.pdb

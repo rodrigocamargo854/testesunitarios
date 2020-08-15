@@ -1,0 +1,1 @@
+calculos.tests.Calctest.Soma_DeveRetornarOValorCorreto
