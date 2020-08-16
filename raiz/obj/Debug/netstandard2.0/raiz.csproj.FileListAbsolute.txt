@@ -1,0 +1,8 @@
+C:\Users\profr\dev\testesunitarios\raiz\obj\Debug\netstandard2.0\raiz.csprojAssemblyReference.cache
+C:\Users\profr\dev\testesunitarios\raiz\obj\Debug\netstandard2.0\raiz.AssemblyInfoInputs.cache
+C:\Users\profr\dev\testesunitarios\raiz\obj\Debug\netstandard2.0\raiz.AssemblyInfo.cs
+C:\Users\profr\dev\testesunitarios\raiz\bin\Debug\netstandard2.0\raiz.deps.json
+C:\Users\profr\dev\testesunitarios\raiz\bin\Debug\netstandard2.0\raiz.dll
+C:\Users\profr\dev\testesunitarios\raiz\bin\Debug\netstandard2.0\raiz.pdb
+C:\Users\profr\dev\testesunitarios\raiz\obj\Debug\netstandard2.0\raiz.dll
+C:\Users\profr\dev\testesunitarios\raiz\obj\Debug\netstandard2.0\raiz.pdb

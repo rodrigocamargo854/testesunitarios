@@ -1,10 +1,14 @@
 using calculo_2;
 using NUnit.Framework;
 
-namespace calculo_2.tests {
+namespace calculo_2.tests 
+
+{
 
     [TestFixture]
-    public class calculo2 {
+    public class calculo2
+    
+     {
 
         [Test]
         public void Test1 ()

@@ -1,10 +1,17 @@
 using calculos;
 using NUnit.Framework;
-namespace calculos.tests {
+
+
+namespace calculos.tests 
+
+{
     [TestFixture]
-    public class Calctest {
+    public class Calctest
+     {
+
         [Test]
-        public void Soma_DeveRetornarOValorCorreto () {
+        public void Soma_DeveRetornarOValorCorreto () 
+        {
             Calculadora c = new Calculadora ();
 
             var resultadoSom = c.Soma (10, 20);
