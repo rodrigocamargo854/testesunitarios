@@ -1,4 +1,4 @@
-using logaritimo;
+using testearrays;
 using NUnit.Framework;
 
 namespace logaritimo.tests 
@@ -8,11 +8,12 @@ namespace logaritimo.tests
     {
 
         [Test]
-        public void Test1 () 
+        public void DeveRetornarSomaDosArrays () 
         {
-            Calculalog c = new Calculalog ();
-            var resultado = c.Log (3);
-            Assert.That (0.47712125471966243729502790325512, Is.EqualTo (resultado));
+            TesteArrays c = new TesteArrays ();
+            double[] t = new double[1,2,3,4];
+            var resultado = c.SomaArrays(t );
+            Assert.That (10, Is.EqualTo (resultado));
         }
     }
     

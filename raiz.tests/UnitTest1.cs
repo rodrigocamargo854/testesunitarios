@@ -16,6 +16,14 @@ namespace raiz.tests
             Assert.That (4, Is.EqualTo (result));
         }
 
+         [Test]
+        public void Test2 () 
+        {
+            RaizQuadrada r = new RaizQuadrada ();
+            var result = r.CalcRaiz (16);
+            Assert.That (2, Is.EqualTo (result));
+        }
+
     }
 
 }
