@@ -6,7 +6,7 @@ namespace calculos
     //refatorar nome da classe no arquivo
     {
         //usar verbos para formular metodos
-        public int Soma(int operador1, int operador2) => operador1 + operador2;
+        public int Somar(int operador1, int operador2) => operador1 + operador2;
 
     }
 

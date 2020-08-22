@@ -9,15 +9,25 @@ namespace calculos.tests
     public class CalcTest
     {
 
-       [Test]
-        public void DeveRetornarSomaDeDoisValores()
+        [TestCase(3, 5, 8)]
+        [TestCase(2, 1, 3)]
+        [TestCase(3, 3, 6)]
+        [TestCase(3, 9, 12)]
+        [TestCase(0, 0, 0)]
+        [TestCase(-1, 0, -1)]
+        [TestCase(-3, -3, -6)]
+        [TestCase(3, -5, -2)]
+        [TestCase(-3, 5, 2)]
+        [TestCase(2, -2, 0)]
+
+        public void DeveRetornarSomaDeDoisValores(int n1, int n2, int result)
         {
             CalculadoraSoma c = new CalculadoraSoma();
 
-            var resultadoSom = c.Soma(10, 20);
+            var resultadoSom = c.Somar(n1, n2);
 
             //Verifica se o primeiro parametro é igual ao segundo
-            Assert.AreEqual(30, resultadoSom);
+            Assert.AreEqual(result, resultadoSom);
 
         }
 
@@ -25,10 +35,3 @@ namespace calculos.tests
     }
 }
 
-// var resultadoSub = c.Subtracao(10, 20);
-// var resultadoMult = c.Multiplicacao(10, 20);
-// var resultadoDiv = c.Divisao(20, 20);
-
-// Assert.AreEqual(-10, resultadoSub);
-// Assert.AreEqual(200, resultadoMult);
-// Assert.AreEqual(1, resultadoDiv);
