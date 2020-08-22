@@ -9,7 +9,7 @@ namespace raiz.tests
 
     {
         [Test]
-        public void Test1 () 
+        public void DeveRetornarARaizQuadrada () 
         {
             RaizQuadrada r = new RaizQuadrada ();
             var result = r.CalcRaiz (16);

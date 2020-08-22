@@ -1,8 +1,0 @@
-C:\Users\profr\dev\testesunitarios\logaritimo\bin\Debug\netstandard2.0\logaritimo.deps.json
-C:\Users\profr\dev\testesunitarios\logaritimo\bin\Debug\netstandard2.0\logaritimo.dll
-C:\Users\profr\dev\testesunitarios\logaritimo\bin\Debug\netstandard2.0\logaritimo.pdb
-C:\Users\profr\dev\testesunitarios\logaritimo\obj\Debug\netstandard2.0\logaritimo.csprojAssemblyReference.cache
-C:\Users\profr\dev\testesunitarios\logaritimo\obj\Debug\netstandard2.0\logaritimo.AssemblyInfoInputs.cache
-C:\Users\profr\dev\testesunitarios\logaritimo\obj\Debug\netstandard2.0\logaritimo.AssemblyInfo.cs
-C:\Users\profr\dev\testesunitarios\logaritimo\obj\Debug\netstandard2.0\logaritimo.dll
-C:\Users\profr\dev\testesunitarios\logaritimo\obj\Debug\netstandard2.0\logaritimo.pdb

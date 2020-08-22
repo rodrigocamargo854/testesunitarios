@@ -11,11 +11,11 @@ namespace calculo_2.tests
      {
 
         [Test]
-        public void Test1 ()
+        public void DeveRetornaOvalorDeUmaPotencia ()
 
         {
-            Calculadora2 c = new Calculadora2 ();
-            var resultado = c.Potencia (2, 2);
+            Potencia c = new Potencia ();
+            var resultado = c.CalculaPotencia (2, 2);
 
             Assert.That (4, Is.EqualTo (resultado));
         }
